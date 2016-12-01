@@ -12,3 +12,5 @@ After adding
 	url = https://github.com/marpet/foreignSubModule.git
 	fetch = +refs/heads/*:refs/remotes/foreignSubModuleRepo/*
 to .git/config 
+
+Changing this as submodule in host project.
