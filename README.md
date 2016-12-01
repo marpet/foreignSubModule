@@ -14,3 +14,5 @@ After adding
 to .git/config 
 
 Changing this as submodule in host project.
+
+Another change in the submodule within the host.
