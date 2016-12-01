@@ -1,3 +1,4 @@
+Someone else did a CRAZY change.
 # foreignSubModule
 External test repository
 
